@@ -75,5 +75,8 @@ public class Collections {
         System.out.println();
         System.out.println("Элементы карты");
         System.out.print("\t" + m1);
+        System.out.print("\t" + m1);
+        System.out.print("\t" + m1);
+        System.out.print("\t" + m1);
     }
 }
